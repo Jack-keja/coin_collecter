@@ -1,11 +1,11 @@
 # 🪙 Coin Collector
 
-A simple yet addictive click-based game built with Python and Pygame Zero! Test your reflexes and precision by clicking coins as they randomly appear on the screen.
+
 
 <img width="297" height="328" alt="截屏2026-11-20 08 44 22" src="https://github.com/user-attachments/assets/537eb738-6fda-4384-a14d-529121980925" />
 
 
-## 🎮 Game Description
+## 🎮 Game Features
 
 Coin Collector is a fast-paced clicking game where a coin appears at random positions on the screen. Your goal is to click on the coin as quickly and accurately as possible. Each successful click earns you a point and relocates the coin to a new random position. But be careful – one missed click ends the game!
 
@@ -18,40 +18,36 @@ Coin Collector is a fast-paced clicking game where a coin appears at random posi
 - **Clean Minimalist Design**: Distraction-free gameplay experience
 - **Quick Sessions**: Perfect for short gaming breaks
 
-## 🎯 Target Audience
+## 🎯 Who is this game for?
 
 This game is designed for:
 - Beginner to intermediate computer science students
 - Students learning Python and Pygame Zero fundamentals
-- University admission portfolios showcasing coding skills
 - Anyone wanting to practice hand-eye coordination through gaming
 - Developers learning event-driven programming concepts
 
-## 🛠️ Dependencies
+## 🛠️ 🛠️ What you need in advance
 
 - **Python 3.6+**
 - **Pygame Zero** (`pgzrun`)
 - **Standard Library**: `random`
 
-## 📦 Installation
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/coin_collecter.git
-   cd coin_collecter
-
-2. **Install Pygame Zero**:
-   ```bash
-   pip install pgzero 
-3. **Add the required image asset: Create an images folder and add**:
-   ```bash
-   * coin.png (the coin sprite image)
-
-## 🚀 Usage
-
-Run the game using:
-  ```bash
-  python coin_collecter.py
+## 📦 Ensure you have the require files
+  - `coin_collecter.py`
+  - `coin.png`
 
 
-## 🎮 How to Play
+**🎯 Gameplay**
+
+   - **Launch the game** - A coin will appear at a random position
+   - **Click the coin** - Use your mouse to click directly on the coin
+   - **Score points** - Each successful click earns 1 point and moves the coin
+   - **Keep clicking** - Try to click as many coins as possible
+   - **Game over** - Clicking anywhere that isn't the coin ends the game
+   - **Check your score** - Your final score is displayed in the console
+
+**🏗️ Project Structure**
+
+<img width="374" height="181" alt="截屏2026-11-20 09 01 18" src="https://github.com/user-attachments/assets/d224c01b-803d-428a-890f-f8df2a8f5c28" />
+
